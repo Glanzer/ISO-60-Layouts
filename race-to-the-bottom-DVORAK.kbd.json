@@ -1,0 +1,217 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "race to the bottom DVORAK",
+    "author": "Markus Glanzer",
+    "background": {
+      "name": "Aluminium brushed",
+      "style": "background-image: url('/bg/metal/aluminum_texture1642.jpg');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-E1xx",
+    "plate": true
+  },
+  [
+    {
+      "c": "#5e5e5e",
+      "t": "#ffffff",
+      "sm": "cherry",
+      "sb": "cherry",
+      "st": "MX1A-E1xx",
+      "fa": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\nEsc\n\n\n\n\n\n\n\n°\n^",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "fa": [
+        1,
+        1,
+        1
+      ]
+    },
+    "!\n1\nF1\n\n\n\n\n\n\nÜ",
+    {
+      "fa": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\"\n2\nF2\n\n\n\n\n\n\n;\n,",
+    {
+      "fa": [
+        1,
+        1,
+        1
+      ]
+    },
+    "§\n3\nF3\n\n\n\n\n\n\n:\n.",
+    "$\n4\nF4\n\n\n\n\n\n\nP",
+    "%\n5\nF5\n\n\n\n\n\n\nY",
+    "&\n6\nF6\n\n\n\n\n\n\nF",
+    {
+      "fa": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "/\n7\nF7\n{\n\n\n\n\n\nG",
+    "(\n8\nF8\n[\n\n\n\n\n\nC",
+    ")\n9\nF9\n]\n\n\n\n\n\nT",
+    "=\n0\nF10\n}\n\n\n\n\n\nZ",
+    {
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "*\n+\nF11\n~\n\n\n\n\n\n?\nß",
+    {
+      "c": "#5e5e5e",
+      "t": "#ffffff",
+      "w": 1.25
+    },
+    "Del\nBackspace\nF12\n\n\n\n\n\n\n/ \\"
+  ],
+  [
+    {
+      "c": "#D94949",
+      "a": 7,
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "c": "#cccccc",
+      "t": "#000000"
+    },
+    "A",
+    "O",
+    "E",
+    {
+      "n": true
+    },
+    "I",
+    "U",
+    {
+      "a": 4,
+      "fa": [
+        1,
+        1
+      ]
+    },
+    "Home\n←\n\n\n\n\n\n\n\nH",
+    {
+      "n": true
+    },
+    "PgUp\n↑\n\n\n\n\n\n\n\nD",
+    "PgDn\n↓\n\n\n\n\n\n\n\nR",
+    "End\n→\n\n\n\n\n\n\n\nN",
+    "\nIns\n\n\n\n\n\n\n\nS",
+    {
+      "a": 7
+    },
+    "L",
+    {
+      "c": "#5e5e5e",
+      "t": "#ffffff",
+      "a": 5,
+      "f2": 1
+    },
+    "\n-\n\n\n\n\n_"
+  ],
+  [
+    {
+      "c": "#D94949",
+      "a": 7,
+      "fa": [
+        1
+      ]
+    },
+    "Ctrl",
+    {
+      "c": "#cccccc",
+      "t": "#000000",
+      "a": 4,
+      "fa": [
+        1,
+        1
+      ]
+    },
+    "\nMeta\n\n\n\n\n\n\n\nÄ",
+    "\nAlt\n\n\n\n\n\n\n\nÖ",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "Q",
+    {
+      "a": 4
+    },
+    "Tab\nSpace\n\n\n\n\n\n\n\nJ",
+    "\nReturn\n\n\n\n\n\n\n\nK",
+    "\nAltGr\n\n\n\n\n\n\n\nX",
+    {
+      "a": 7
+    },
+    "B",
+    {
+      "c": "#5e5e5e",
+      "t": "#ffffff",
+      "a": 4,
+      "f2": 1
+    },
+    "\nScrLk\n\n\n\n\n\n\n\nM",
+    {
+      "f2": 1
+    },
+    "\nPrint\n\n\n\n\n\n\n\nW",
+    {
+      "f2": 1
+    },
+    "\nPause\n\n\n\n\n\n\n\nV",
+    {
+      "a": 5,
+      "f2": 2
+    },
+    "\n#\n\n\n\n\n'",
+    {
+      "c": "#D94949",
+      "a": 7,
+      "w": 1.25
+    },
+    "Fn"
+  ]
+]
